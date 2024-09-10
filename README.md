@@ -2,14 +2,14 @@
 
 Welcome to my GitHub profile! I'm passionate about building engaging web experiences, exploring new technologies, and constantly learning. I love working on projects that challenge me and push the boundaries of what's possible.
 
-![GitHub Banner](https://via.placeholder.com/1200x400) (https://i.pinimg.com/736x/ae/ef/26/aeef262714ef51c5bcf39a41864e8aa3.jpg) <!-- Optional: Add a custom banner image URL here -->
+![GitHub Banner](https://github.com/PrashantGoit/PrashantGoit/blob/main/Prashant%20Goit.png?raw=true) <!-- Optional: Add a custom banner image URL here -->
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning advanced JavaScript, web development frameworks, and exploring the world of blockchain technology.
 - 👯 I’m looking to collaborate on innovative web development projects and open-source contributions.
 - 💬 Ask me about web development, JavaScript, or anything tech-related!
-- 📫 How to reach me: [prashantgoit@example.com](mailto:prashantgoit@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prashantgoit).
+- 📫 How to reach me: [prashantgoit@example.com](mailto:reach@prashantgoit.com.np) or connect with me on [LinkedIn](https://www.linkedin.com/in/prashantgoit).
 - ⚡ Fun fact: I'm a big fan of 90s cartoons and love integrating creativity into my projects.
 
 ## 🛠️ Tech Stack
@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm passionate about building engaging web experie
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/blockchain-%232E3B4E.svg?style=flat&logo=blockchain-dot-com&logoColor=white)
-<!-- Add or remove technologies based on your skills -->
 
 ## 📊 GitHub Stats
 
@@ -35,16 +34,14 @@ Welcome to my GitHub profile! I'm passionate about building engaging web experie
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantgoit/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com/)
-<!-- Add links to your other social profiles -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/PrashantGoit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.prashantgoit.com.np/)
 
 ## 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+
 - [Your recent blog post title](https://yourblog.com)
 - [Another blog post title](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
 
 ## 💬 Let's Chat!
 
