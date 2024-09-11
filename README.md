@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about building engaging web experiences, exploring new technologies, and constantly learning. I love working on projects that challenge me and push the boundaries of what's possible.
 
-![GitHub Banner](https://github.com/PrashantGoit/PrashantGoit/blob/main/Prashant%20Goit.png?raw=true) <!-- Optional: Add a custom banner image URL here -->
+![GitHub Banner](https://github.com/PrashantGoit/PrashantGoit/blob/main/Prashant%20Goit.png?raw=true)
 
 ## 🚀 About Me
 
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about building engaging web experie
 ## 📕 UnderConstructions Stuffs
 
 
-- [Your recent blog post title](https://www.prashantgoit.com.np/Exclusive/#)
+- Gaming Site With Utility (https://www.prashantgoit.com.np/Exclusive/#)
 
 ## 💬 Let's Chat!
 
