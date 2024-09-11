@@ -37,11 +37,10 @@ Welcome to my GitHub profile! I'm passionate about building engaging web experie
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/PrashantGoit)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.prashantgoit.com.np/)
 
-## 📕 Latest Blog Posts
+## 📕 UnderConstructions Stuffs
 
 
-- [Your recent blog post title](https://yourblog.com)
-- [Another blog post title](https://yourblog.com)
+- [Your recent blog post title](https://www.prashantgoit.com.np/Exclusive/#)
 
 ## 💬 Let's Chat!
 
