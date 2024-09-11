@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building engaging web experie
 - 🌱 I’m currently learning advanced JavaScript, web development frameworks, and exploring the world of blockchain technology.
 - 👯 I’m looking to collaborate on innovative web development projects and open-source contributions.
 - 💬 Ask me about web development, JavaScript, or anything tech-related!
-- 📫 How to reach me: [prashantgoit@example.com](mailto:reach@prashantgoit.com.np) or connect with me on [LinkedIn](https://www.linkedin.com/in/prashantgoit).
+- 📫 How to reach me: [reach@prashantgoit.com.np](mailto:reach@prashantgoit.com.np) or connect with me on [LinkedIn](https://www.linkedin.com/in/prashantgoit).
 - ⚡ Fun fact: I'm a big fan of 90s cartoons and love integrating creativity into my projects.
 
 ## 🛠️ Tech Stack
